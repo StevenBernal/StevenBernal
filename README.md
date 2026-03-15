@@ -28,7 +28,4 @@ Más de 3 años trabajando con TypeScript, Node.js y AWS en productos reales de 
 
 ---
 ## 📊 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=StevenBernal&theme=tokyonight&hide_border=true&locale=es&mode=weekly)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenBernal&layout=compact)
